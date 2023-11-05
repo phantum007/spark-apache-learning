@@ -1,1 +1,6 @@
-pyspark-env/
+pyspark-env/bin/
+pyspark-env/lib/
+.env/
+__pycache__/
+*.pyc
+*.pyo
